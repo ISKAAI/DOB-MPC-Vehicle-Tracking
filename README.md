@@ -1,7 +1,11 @@
 # DOB-MPC-Vehicle-Tracking
 A Model Predictive Control (MPC) based vehicle trajectory tracking algorithm integrated with Disturbance Observer (DOB) compensation. It supports typical scenarios such as straight lines, U-turns, lane changes, and quintic polynomial turns. The system incorporates Kalman filtering/low-pass filtering, control delay compensation, and noise/disturbance simulation, with comparative validation of the robustness improvement brought by disturbance compensation for trajectory tracking.
 
-## Key Technicla Features
+## Documentation & Technical Reports
+This project provides a comprehensive theoretical framework, including detailed mathematical derivations, vehicle modeling, and extensive simulation analysis.
+- [View Full Technical Report (PDF)](docs/Vehicle%20Control%20Report.pdf)
+
+## Key Technical Features
 - **Core Algorithm**: DOB-MPC (MPC with Disturbance Observer compensation), addressing the tracking accuracy degradation of traditional MPC under disturbances/noise;
   
 - **Multi-Scenario Support**: Built-in reference path generators for straight lines, U-turns, lane changes, quintic polynomial turns, etc.;
