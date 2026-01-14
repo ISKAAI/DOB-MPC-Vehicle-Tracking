@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/kai/Documents/homework/Tesla/Task10/build",
+  "command": "/usr/bin/clang++ -DOSQP_SHARED_LIB -I/opt/homebrew/include -isystem /opt/homebrew/include/osqp -g -std=gnu++17 -arch arm64 -o CMakeFiles/mpc_simulation.dir/main.cpp.o -c /Users/kai/Documents/homework/Tesla/Task10/main.cpp",
+  "file": "/Users/kai/Documents/homework/Tesla/Task10/main.cpp",
+  "output": "CMakeFiles/mpc_simulation.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/kai/Documents/homework/Tesla/Task10/build",
+  "command": "/usr/bin/clang++ -DOSQP_SHARED_LIB -I/opt/homebrew/include -isystem /opt/homebrew/include/osqp -g -std=gnu++17 -arch arm64 -o CMakeFiles/mpc_simulation.dir/Vehicle.cpp.o -c /Users/kai/Documents/homework/Tesla/Task10/Vehicle.cpp",
+  "file": "/Users/kai/Documents/homework/Tesla/Task10/Vehicle.cpp",
+  "output": "CMakeFiles/mpc_simulation.dir/Vehicle.cpp.o"
+},
+{
+  "directory": "/Users/kai/Documents/homework/Tesla/Task10/build",
+  "command": "/usr/bin/clang++ -DOSQP_SHARED_LIB -I/opt/homebrew/include -isystem /opt/homebrew/include/osqp -g -std=gnu++17 -arch arm64 -o CMakeFiles/mpc_simulation.dir/PathGenerator.cpp.o -c /Users/kai/Documents/homework/Tesla/Task10/PathGenerator.cpp",
+  "file": "/Users/kai/Documents/homework/Tesla/Task10/PathGenerator.cpp",
+  "output": "CMakeFiles/mpc_simulation.dir/PathGenerator.cpp.o"
+},
+{
+  "directory": "/Users/kai/Documents/homework/Tesla/Task10/build",
+  "command": "/usr/bin/clang++ -DOSQP_SHARED_LIB -I/opt/homebrew/include -isystem /opt/homebrew/include/osqp -g -std=gnu++17 -arch arm64 -o CMakeFiles/mpc_simulation.dir/NoiseGenerator.cpp.o -c /Users/kai/Documents/homework/Tesla/Task10/NoiseGenerator.cpp",
+  "file": "/Users/kai/Documents/homework/Tesla/Task10/NoiseGenerator.cpp",
+  "output": "CMakeFiles/mpc_simulation.dir/NoiseGenerator.cpp.o"
+},
+{
+  "directory": "/Users/kai/Documents/homework/Tesla/Task10/build",
+  "command": "/usr/bin/clang++ -DOSQP_SHARED_LIB -I/opt/homebrew/include -isystem /opt/homebrew/include/osqp -g -std=gnu++17 -arch arm64 -o CMakeFiles/mpc_simulation.dir/filter.cpp.o -c /Users/kai/Documents/homework/Tesla/Task10/filter.cpp",
+  "file": "/Users/kai/Documents/homework/Tesla/Task10/filter.cpp",
+  "output": "CMakeFiles/mpc_simulation.dir/filter.cpp.o"
+},
+{
+  "directory": "/Users/kai/Documents/homework/Tesla/Task10/build",
+  "command": "/usr/bin/clang++ -DOSQP_SHARED_LIB -I/opt/homebrew/include -isystem /opt/homebrew/include/osqp -g -std=gnu++17 -arch arm64 -o CMakeFiles/mpc_simulation.dir/MpcController.cpp.o -c /Users/kai/Documents/homework/Tesla/Task10/MpcController.cpp",
+  "file": "/Users/kai/Documents/homework/Tesla/Task10/MpcController.cpp",
+  "output": "CMakeFiles/mpc_simulation.dir/MpcController.cpp.o"
+}
+]
